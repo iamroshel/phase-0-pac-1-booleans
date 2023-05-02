@@ -93,3 +93,4 @@ Boolean expressions that return `true` or `false`.
 
 - MDN
   - [Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and [falsey](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
+Roshel
